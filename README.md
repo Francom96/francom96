@@ -1,5 +1,5 @@
 # Hola 👋🏻 soy Franco! :
-Fullstack dev en constante aprendizaje.<br><br>He tenido la posibilidad de aprender y trabajar con distintas tecnologías y espero poder continuar haciéndolo.<br><br>En lo personal, me gusta trabajar con gente, me interesa vincularme y aprender de cada uno de ellos. <br>Me pongo constantemente delante de nuevos desafíos para intentar resolverlos, <br>ya sea con mis herramientas actuales o aprendiendo nuevas.<br><br>Soy una persona proactiva, organizada y responsable. <br>Autodidacta por naturaleza.<br>No existen los finales, si no los nuevos comienzos.
+Fullstack dev en constante aprendizaje.<br><br>He tenido la posibilidad de aprender y trabajar con distintas tecnologías y espero poder continuar haciéndolo.<br><br>En lo personal, me gusta trabajar con gente, me interesa vincularme y aprender de cada uno de ellos. <br>Me pongo constantemente delante de nuevos desafíos para intentar resolverlos, <br>ya sea con mis herramientas actuales o aprendiendo nuevas.<br><br>Soy una persona proactiva, organizada y responsable. <br>Autodidacta por naturaleza.
 
 
 ## 🌐 Socials:
